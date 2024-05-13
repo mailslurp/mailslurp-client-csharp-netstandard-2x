@@ -1,0 +1,16 @@
+# mailslurp_netstandard_2x.Model.ConnectorSyncEventProjection
+ConnectorSyncEventProjection
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**ConnectorId** | **Guid** |  | 
+**SyncCount** | **long** |  | 
+**SyncStatus** | **string** |  | 
+**CreatedAt** | **DateTime** |  | 
+**Message** | **string** |  | [optional] 
+**Id** | **Guid** |  | [optional] 
+
+[[Back to Model list]](../README#documentation-for-models) [[Back to API list]](../README#documentation-for-api-endpoints) [[Back to README]](../README)
+
